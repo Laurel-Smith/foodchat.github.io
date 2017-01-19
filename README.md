@@ -1,1 +1,1 @@
-# foodchattin.github.io
+# foodchat.github.io
